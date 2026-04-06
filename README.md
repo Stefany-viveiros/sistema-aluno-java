@@ -47,4 +47,35 @@ O sistema recebe quatro notas de um aluno, realiza o cálculo da média descarta
 
 ---
 
+
+=== BOLETIM DO ALUNO ===
+
+Digite a nota 1: 8
+Digite a nota 2: 7
+Digite a nota 3: 9
+Digite a nota 4: 6
+
+Nota descartada: 6.0
+
+Notas consideradas:
+Nota1: 8.0
+Nota2: 7.0
+Nota3: 9.0
+
+Media: 8.0
+Situação: Aprovado
+
+
+---
+
+## 👩‍💻 Autora
+
+Projeto desenvolvido para fins acadêmicos, como parte do aprendizado em Java e Programação Orientada a Objetos.
+
+---
+
+## 🚀 Tecnologias utilizadas
+
+- Java ☕
+
 ## 📌 Exemplo de uso
