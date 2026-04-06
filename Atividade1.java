@@ -6,11 +6,8 @@ package com.mycompany.atividade1;
 
 /**
  *
- * MEMBROS DO GRUPO:
- * DANILO BERBEL BUSCARIOLO DA SILVA - RA: 00349653
- * JULIO CESAR CAZITA SILVA          - RA: 00350213
- * RENAN TRINDADE MOTA               - RA: 00350922
- * STEFANY VIVEIROS                  - RA: 00360385
+ * Projeto: Sistema de Notas
+ * Programação Orientada a Objetos
  */
 
 import java.util.Scanner;
