@@ -53,12 +53,17 @@ O sistema recebe quatro notas de um aluno, realiza o cálculo da média descarta
 
 === BOLETIM DO ALUNO ===
 
-Digite a nota 1: 8
-Digite a nota 2: 7
-Digite a nota 3: 9
-Digite a nota 4: 6
+Digite a nota 1: 8  
 
-Nota descartada: 6.0
+Digite a nota 2: 7  
+
+Digite a nota 3: 9  
+
+Digite a nota 4: 6  
+
+
+Nota descartada: 6.0  
+
 
 Notas consideradas:
 Nota1: 8.0
