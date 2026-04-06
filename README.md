@@ -65,12 +65,17 @@ Digite a nota 4: 6
 Nota descartada: 6.0  
 
 
-Notas consideradas:
-Nota1: 8.0
-Nota2: 7.0
-Nota3: 9.0
+Notas consideradas:  
 
-Media: 8.0
+Nota1: 8.0  
+
+Nota2: 7.0  
+
+Nota3: 9.0  
+
+
+Media: 8.0  
+
 Situação: Aprovado
 
 
